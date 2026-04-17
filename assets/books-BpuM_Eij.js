@@ -1,0 +1,1 @@
+import{i as e}from"./index-BRArfN-s.js";var t=e=>e.books,n=e([t],e=>e.items),r=e([t],e=>e.selectedBook),i=e([t],e=>e.isBooksLoading),a=e([t],e=>e.isBookDetailsLoading),o=e([t],e=>e.booksError),s=e([t],e=>e.bookDetailsError);e([n],e=>e.length);var c=e([n],e=>[...e].sort((e,t)=>e.title.localeCompare(t.title)));export{r as a,i,a as n,c as o,o as r,s as t};
